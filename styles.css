@@ -65,7 +65,7 @@
 .back-top{color:var(--accent-burgundy)}
 
 /* Reversible deep-green header/footer surfaces; prior styling: styles.before-deep-green-areas.css. */
-.site-header,.site-header .header-inner{background:#b0c3a0}
+.site-header,.site-header .header-inner{background:#A2C579}
 .site-header{border-bottom-color:#526957}
 .site-header .brand,.site-header .brand small{color:#f4f5ee}
 .site-header .brand-mark{background:var(--accent-burgundy);color:#fff}
@@ -74,7 +74,7 @@
 .site-header .main-nav a:hover{background:var(--accent-burgundy);color:#fff}
 .site-header .header-link{border-color:#ded0d4;background:#faf8f3;color:var(--accent-burgundy)}
 .site-header .header-link:hover{border-color:#eadfe2;background:#eadfe2;color:var(--accent-burgundy-hover)}
-.site-footer{border-top-color:#9b7380;background:#b0c3a0}
+.site-footer{border-top-color:#9b7380;background:#A2C579}
 .site-footer .footer-brand,.site-footer .footer-brand small,.site-footer .footer-inner>p{color:#f0f2e9}
 .site-footer .footer-brand .brand-mark,.site-footer .related-mark{background:var(--accent-burgundy);color:#fff}
 .site-footer .back-top{color:#f2dfe5}
