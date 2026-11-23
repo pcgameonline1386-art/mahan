@@ -46,7 +46,7 @@
 }
 
 /* Reversible burgundy accent experiment; prior complete styling: styles.before-burgundy.css. */
-:root{--accent-burgundy:#673847;--accent-burgundy-hover:#512b38;--accent-burgundy-soft:#eadfe2}
+:root{--accent-burgundy:#ffffff;--accent-burgundy-hover:#512b38;--accent-burgundy-soft:#eadfe2}
 .site-header{border-top-color:var(--accent-burgundy)}
 .brand{color:var(--accent-burgundy)}
 .brand-mark,.site-header .brand-mark{background:var(--accent-burgundy);color:#fff}
@@ -77,7 +77,7 @@
 .site-footer{border-top-color:#9b7380;background:#43766C}
 .site-footer .footer-brand,.site-footer .footer-brand small,.site-footer .footer-inner>p{color:#f0f2e9}
 .site-footer .footer-brand .brand-mark,.site-footer .related-mark{background:var(--accent-burgundy);color:#fff}
-.site-footer .back-top{color:#f2dfe5}
+.site-footer .back-top{color:#ffffff}
 .site-footer .back-top:hover{color:#fff}
 
 /* Responsive display for the supplied Yamaha photography. */
